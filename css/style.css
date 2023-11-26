@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    max-width: 1440px;
+    background-color: #1C1C28;
+    margin: 30px auto;
+    
+}
+.containerx{
+    
+    max-width: 1440px;
+    background-color: #1C1C28;
+    margin: 30px auto;
+}
+.header{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    height: 120px;
+
+}
+
+
+.logo{
+    cursor: pointer;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.menu{
+    padding-top: 50px;
+}
+.menu ul{
+    cursor: pointer;
+    display: flex;
+    list-style: none;
+    
+}
+.menu ul li a{
+    margin-left: 40px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+    border-radius: 15px;
+    background-color: #6966FF;
+    color: wheat;
+    margin-top: 35px;
+    width: 147px;
+    height: 48px;
+}
+  .figma img{
+         padding: 50px 85px;       
+  }
+   .figma{
+          display: flex;
+   }
+   .text{
+        padding: 60px 0px 0px ;
+        font-size: 20px;
+        color: white;
+        display: flex;
+   }
